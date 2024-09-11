@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brigza.github.io/Sdb/sitemap.Sdb.gz
